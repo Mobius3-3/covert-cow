@@ -23,14 +23,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covert-cow/assets/invisiblecow.jpg"
   },
   {
-    "revision": "9b6bb9f5d488b16b9703",
-    "url": "/covert-cow/bundle.9b6bb.js"
+    "revision": "dbe45f198b243dc84557",
+    "url": "/covert-cow/bundle.dbe45.js"
   },
   {
     "url": "/covert-cow/de0d367f1f7311a9c5822e829cdfc441.jpg"
   },
   {
-    "revision": "f34a11dd5ccf52386eb7b687c4413a6a",
+    "revision": "fbd192429183a53fd912fd4ec9888416",
     "url": "/covert-cow/index.html"
   },
   {
@@ -42,7 +42,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covert-cow/sw-debug.js"
   },
   {
-    "revision": "219f6eda1247c52f800c17b1fb6ed474",
+    "revision": "f5279a83eae73a31c4501187d47321e5",
     "url": "/covert-cow/sw-esm.js"
   },
   {
