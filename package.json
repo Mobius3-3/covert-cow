@@ -18,7 +18,7 @@
     "eslint-config-synacor": "^3.0.4",
     "gh-pages": "^2.1.1",
     "if-env": "^1.0.0",
-    "preact-cli": "^3.0.0-rc.6",
+    "preact-cli": "^3.4.1",
     "webpack": "^4.41.5"
   },
   "dependencies": {
